@@ -1,0 +1,6 @@
+Tutorial 2
+Binary classification
+
+
+iml_tutorial2.pdf: contiene il testo del tutorial
+caravan_data.RData: è il dataset da utilizzare in R

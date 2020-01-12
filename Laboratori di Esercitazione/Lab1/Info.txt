@@ -1,0 +1,6 @@
+Tutorial1
+Linear Regression
+
+
+iml_tutorial1.pdf: contiene il testo del tutorial
+boston_data.RData: è il dataset da utilizzare in R
