@@ -1,3 +1,3 @@
 # Introduction to Machine Learning
 
-Tutorials by "Introduction to Machine Learning" course using R by Prof. Fabio Divino (@UniMol)
+Tutorials at "Introduction to Machine Larning" course, bachelor deegree in Computer Science at UniMol (University of Molise) by Prof. Fabio Divino
